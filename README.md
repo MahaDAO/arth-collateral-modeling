@@ -9,5 +9,5 @@ This can be things like; Collaterals, Collateriazation Ratio, Stop losses, etc..
 ## Simulations
 
 - [USD, Gold (50-50)](./USD-XAU.ipynb)
-- [Euro, Bitcoin, Gold, Ethereum (50-20-20-10)](./USD-XAU.ipynb)
-- [Gold, S&P 500, Australian Dollar, Euro (50-20-20-10)](./USD-XAU.ipynb)
+- [Euro, Bitcoin, Gold, Ethereum (50-20-20-10)](./BTC-XAU-ETH-EUR.ipynb)
+- [Gold, S&P 500, Australian Dollar, Euro (50-20-20-10)](./XAU-EUR-SPY500-AUS.ipynb)
